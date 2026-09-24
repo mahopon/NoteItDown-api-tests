@@ -1,0 +1,6 @@
+name: DEV
+variables:
+  - name: BACKEND_URL
+    value: http://localhost:8080
+  - name: X-CSRF-TOKEN
+    value: cxtIaCqaj8QUGVd-ONNLzViJUTL7kZFetSmRGKZ1JL35CetBEXl-Cx2qtvU5fWIfC_5_qT69fArDoqhz0x-iecAQE9mfa4h2
